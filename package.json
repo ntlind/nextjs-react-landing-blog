@@ -1,0 +1,67 @@
+{
+  "name": "nextjs-landing-page",
+  "version": "1.1.0",
+  "description": "An open-source landing page built by Quantile using React, NextJS, and the Material-UI design kit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && rm -rf .next/ && npm install && npm run dev",
+    "export": "next build && next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quantilegroup/nextjs-landing-page"
+  },
+  "keywords": [
+    "next",
+    "nextjs",
+    "react",
+    "reactjs"],
+  "author": "Nick from Quantile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creativetimofficial/nextjs-material-kit/issues"
+  },
+  "homepage": "https://your_url.com",
+  "dependencies": {
+    "@material-ui/core": "4.9.13",
+    "@material-ui/icons": "4.9.1",
+    "@zeit/next-sass": "1.0.1",
+    "classnames": "2.2.6",
+    "gray-matter": "^4.0.2",
+    "image-trace-loader": "^1.0.2",
+    "imagemin-gifsicle": "^7.0.0",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-optipng": "^8.0.0",
+    "imagemin-svgo": "^8.0.0",
+    "jimp": "^0.16.1",
+    "lqip-loader": "^2.2.1",
+    "moment": "2.25.3",
+    "next": "^9.5.5",
+    "next-compose-plugins": "2.2.0",
+    "next-images": "1.3.1",
+    "nextjs-redirect": "2.0.2",
+    "nextjs-sitemap-generator": "^1.1.0",
+    "node-sass": "4.14.1",
+    "nouislider": "14.4.0",
+    "path": "0.12.7",
+    "prop-types": "15.7.2",
+    "react": "^16.13.1",
+    "react-calendly": "^1.1.3",
+    "react-datetime": "2.16.3",
+    "react-dom": "^16.13.1",
+    "react-markdown": "^4.3.1",
+    "react-scroll": "^1.8.1",
+    "react-slick": "0.25.2",
+    "react-swipeable-views": "0.13.9",
+    "react-syntax-highlighter": "^15.2.1",
+    "responsive-loader": "^2.2.0",
+    "styled-components": "5.1.0",
+    "svg-sprite-loader": "^5.0.0",
+    "webp-loader": "^0.6.0",
+    "webpack": "4.43.0"
+  }
+}
