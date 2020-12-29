@@ -29,11 +29,11 @@ Other minor changes relative to [NextJS Material Kit](https://demos.creative-tim
 <br />  
 
 This website was developed using [NextJS](https://nextjs.org/?), [Material-UI](https://material-ui.com/?), and [Material Kit React](https://www.creative-tim.com/product/material-kit-react?) by Creative Tim. We had a lot of fun building with these templates, and we hope you will too. Special thanks to Creative Tim, the Vercel team, and the amazing React community that created our new dependencies:
-- (react-markdown)[https://github.com/remarkjs/react-markdown]
-- (react-calendly)[https://www.npmjs.com/package/react-calendly]
-- (react-scroll)[https://www.npmjs.com/package/react-scroll]
-- (nextjs-sitemap-generator)[https://www.npmjs.com/package/nextjs-sitemap-generator]
-- SEO component created by (JoseRFelix)[https://github.com/JoseRFelix/nextjs-starter-blog/blob/master/components/Seo.js]
+- [react-markdown](https://github.com/remarkjs/react-markdown)
+- [react-calendly](https://www.npmjs.com/package/react-calendly)
+- [react-scroll](https://www.npmjs.com/package/react-scroll)
+- [nextjs-sitemap-generator](https://www.npmjs.com/package/nextjs-sitemap-generator)
+- SEO component created by [JoseRFelix](https://github.com/JoseRFelix/nextjs-starter-blog/blob/master/components/Seo.js)
 
 <br />  
 <br />  
